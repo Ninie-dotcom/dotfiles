@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = boutal.virginie@gmail.com
+	name = Virginie Boutal
